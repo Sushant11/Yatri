@@ -8,10 +8,12 @@
 .head{
     font-size: 25px;
 }
+
 a:hover {
     color: #fff336;
     text-decoration: underline;
 }
+
 .parallax{
     background-image: url(../images/cover.jpg);
     background-attachment: fixed;
