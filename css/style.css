@@ -1,0 +1,25 @@
+@font-face {
+    font-family: customfont;
+    src: url(../resources/customfont.woff);
+}
+.text{
+    font-family:customfont;
+}
+.head{
+    font-size: 25px;
+}
+a:hover {
+    color: #fff336;
+    text-decoration: underline;
+}
+.parallax{
+    background-image: url(../images/cover.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 624px;
+}
+a{
+    color:#444444;
+}
